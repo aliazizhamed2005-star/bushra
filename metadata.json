@@ -1,0 +1,6 @@
+{
+  "name": "BUSHRA.exe",
+  "description": "An extremely complicated human detected — a playful interactive investigation dedicated to Bushra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
